@@ -1,0 +1,54 @@
+[
+  {
+    "sleep_time": "2025-04-03T00:00:00",
+    "wake_time": "2025-04-03T05:02:00",
+    "duration": 18120.0,
+    "quality_rating": 8,
+    "mood_rating": 7,
+    "interruptions": 6,
+    "dream_recall": false,
+    "sleep_environment": {},
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "sleep_time": "2025-04-22T16:40:00",
+    "wake_time": "2025-04-22T18:40:00",
+    "duration": 7200.0,
+    "quality_rating": 8,
+    "mood_rating": 8,
+    "interruptions": 4,
+    "dream_recall": false,
+    "sleep_environment": {},
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "sleep_time": "2025-04-22T15:16:00",
+    "wake_time": "2025-04-22T21:16:00",
+    "duration": 21600.0,
+    "quality_rating": 1,
+    "mood_rating": 1,
+    "interruptions": 1,
+    "dream_recall": false,
+    "sleep_environment": {},
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "sleep_time": "2025-10-06T22:52:00",
+    "wake_time": "2025-10-07T08:52:00",
+    "duration": 36000.0,
+    "quality_rating": 8,
+    "mood_rating": 10,
+    "interruptions": 0,
+    "dream_recall": false,
+    "sleep_environment": {},
+    "tags": [
+      ""
+    ]
+  }
+]

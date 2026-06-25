@@ -1,0 +1,63 @@
+{
+    "entries": [
+        {
+            "timestamp": "2025-04-03T11:51:13.399923",
+            "date": "2025-04-03",
+            "time": "11:51",
+            "rating": 2,
+            "description": "feeling stressed",
+            "factors": [
+                "Stress"
+            ],
+            "mood_text": "Negative",
+            "mood_icon": "\ud83d\ude14"
+        },
+        {
+            "timestamp": "2025-04-05T11:44:35.829460",
+            "date": "2025-04-05",
+            "time": "11:44",
+            "rating": 4,
+            "description": "positive",
+            "factors": [
+                "Friends"
+            ],
+            "mood_text": "Positive",
+            "mood_icon": "\ud83d\ude0a"
+        },
+        {
+            "timestamp": "2025-04-09T21:45:43.376228",
+            "date": "2025-04-09",
+            "time": "21:45",
+            "rating": 4,
+            "description": "happy",
+            "factors": [
+                "Friends"
+            ],
+            "mood_text": "Positive",
+            "mood_icon": "\ud83d\ude0a"
+        },
+        {
+            "timestamp": "2025-04-22T15:10:59.233792",
+            "date": "2025-04-22",
+            "time": "15:10",
+            "rating": 3,
+            "description": "self satisfied",
+            "factors": [
+                "Relaxation",
+                "Hobby"
+            ],
+            "mood_text": "Neutral",
+            "mood_icon": "\ud83d\ude10"
+        },
+        {
+            "timestamp": "2025-10-07T08:47:12.879614",
+            "date": "2025-10-07",
+            "time": "08:47",
+            "rating": 2,
+            "description": "sad",
+            "factors": [],
+            "mood_text": "Negative",
+            "mood_icon": "\ud83d\ude14"
+        }
+    ]
+}

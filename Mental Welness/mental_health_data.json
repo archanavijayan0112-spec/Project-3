@@ -1,0 +1,13 @@
+{
+    "users": {
+        "Anonymous": {
+            "name": "Anonymous",
+            "mood_log": [],
+            "goals": [],
+            "preferences": {},
+            "topics_discussed": [
+                "mood_tracking"
+            ]
+        }
+    }
+}
